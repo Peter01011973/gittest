@@ -1,6 +1,10 @@
 first
 user1 changes file1
 Good evening (from branch master)
+<<<<<<< HEAD
 Line from user1
 
 
+=======
+Line from user2 
+>>>>>>> a47ea4b983fda14cbe0cbf50eee0f8bc52608f78
